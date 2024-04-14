@@ -1,0 +1,14 @@
+.skill__item{
+    border: 2px solid #E85BFF;
+    border-radius: 1em;
+    padding: 1em;
+    font-weight: 400;
+    letter-spacing: .25em;
+    font-size: 1.10rem;
+}
+
+.skill__link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
