@@ -3,9 +3,9 @@ import "./Work.css"
 import { motion } from "framer-motion"
 
 const projects = [
-    {image: "/images/business-card.png", link:"", alt: ""},
-    {image: "/images/multiple-choice.png", link:"", alt: ""},
-    {image: "/images/travel-journal.png", link:"", alt: ""},
+    {image: "/images/business-card.png", link:"https://subtle-fudge-711dae.netlify.app/", alt: "business card"},
+    {image: "/images/multiple-choice.png", link:"https://joyful-puppy-a8ccc9.netlify.app/", alt: "multiple choice"},
+    {image: "/images/travel-journal.png", link:"https://creative-taffy-57417c.netlify.app/", alt: "travel journal"},
 ]
 
 const elements = projects.map((project, index)=>(
